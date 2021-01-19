@@ -40,8 +40,8 @@ def sumIt (n):
 
 1. Go to the store
 2. Buy Food
-	5. Rice (indented.. So start at 1)
-	6. Beans
+ 5. Rice (indented.. So start at 1)
+ 6. Beans
 1. Come home
 1. Last of the 1s
 3. And this should be the final line.
