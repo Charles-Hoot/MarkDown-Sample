@@ -60,7 +60,7 @@ Lets go to amazon <https://www.amazon.com>
 
 We want an image here and ![Delete](images/delete.gif) is a middle sized animated gif.
 
-I want to ride the merry_go_round is different to the merry\_go\_round.
+I want to ride the merry*go*round is different to the merry\*go\*round.
 
 # Extensions
 This is a truth table
