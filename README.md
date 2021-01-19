@@ -54,6 +54,6 @@ And after as well.
 
 Lets do a search [Google](https://www.google.com)
 
-Or go to another markdown [page](second.md)local to the repo.
+Or go to another markdown [page](second.md) local to the repo.
 
 
