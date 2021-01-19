@@ -58,5 +58,6 @@ Or go to another markdown [page](second.md) local to the repo.
 
 Lets go to amazon <https://www.amazon.com> 
 
-We want an image here ![Stop](images/delete.gif) trying a gif.
+We want an image here and ![Delete](images/delete.gif) is a middle sized animated gif.
+
 
