@@ -46,5 +46,10 @@ def sumIt (n):
 2. After coming home
 3. And this should be the final line.
 
+Before the rule we want a blank line
+
+---
+
+And after as well.
 
 
