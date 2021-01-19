@@ -52,4 +52,8 @@ Before the rule we want a blank line
 
 And after as well.
 
+Lets do a search [Google](https://www.google.com)
+
+Or go to another markdown [page](second.md)local to the repo.
+
 
