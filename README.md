@@ -65,7 +65,7 @@ I want to ride the merry*go*round is different to the merry\*go\*round.
 # Extensions
 This is a truth table
 | P | Q | P and Q |
-| --- | --- | --- |
+| --- | --- | ---: |
 | T | T | T |
 | T | F | F |
 | F | T | F |
