@@ -62,5 +62,15 @@ We want an image here and ![Delete](images/delete.gif) is a middle sized animate
 
 I want to ride the merry_go_round is different to the merry\_go\_round.
 
+# Extensions
+This is a truth table
+| P | Q | P and Q |
+| --- | --- | --- |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F |
+
+
 
 
