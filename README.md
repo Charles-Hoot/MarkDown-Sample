@@ -71,6 +71,13 @@ This is a truth table
 | F | T | F |
 | F | F | F |
 
+- [] item 1
+- [x] item 2 (it’s done!)
+- [] item 3
+
+
+~~Opps, didn’t mean to do this.~~
+
 
 
 
